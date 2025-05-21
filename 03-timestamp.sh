@@ -3,5 +3,5 @@
   NUMBER1=100
   NUMBER2=200
 
-  TIMESTAMP= $ (date)
+  TIMESTAMP= $(date)
      echo "scrpt executed at : $TIMESTAMP"
