@@ -1,4 +1,3 @@
-ikhjashdjashda ajshdjakshdahs jnhasjkdajksdkajskajs
-asdkalsd 
-asdjasdajsd
-jhajsdhajhsdah
+#!/bin/bash
+
+echo "Hello World!"
